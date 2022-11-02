@@ -1,0 +1,35 @@
+h1{
+    color: black;
+    text-align: center;
+}
+div{
+    border: 3px solid black;
+   
+    margin: 30px;
+    padding: 20px;
+}
+.hobby{
+    background-color: green;
+    color: greenyellow;
+}
+.hobby img{
+    width: 200px;
+    height: 200px;
+
+}
+.Work{
+    background-color: brown;
+    color: aqua;
+}
+.welding img{
+    width: 200px;
+    height: 200px;
+}
+.nature{
+    background-color: cyan;
+    color: blueviolet;
+}
+.nature img{
+    width: 200px;
+    height: 200px;
+}
