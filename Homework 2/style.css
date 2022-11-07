@@ -1,0 +1,33 @@
+
+h1{
+    color: red;
+    text-align: center;
+}
+ol{
+    color: brown;
+    
+}
+.one{
+    color: rgba(255, 0, 0, 0.856);
+    
+}
+.two{
+    color: blue;
+}
+h3{
+    color: darkgreen;
+}
+.text{
+    padding-right: 600px;
+  
+}
+span{
+    color: red;
+}
+ .sh{
+    color: blue;
+}
+li{
+    color: brown;
+    padding-right: 600px;
+}
