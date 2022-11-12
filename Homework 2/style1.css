@@ -1,6 +1,15 @@
-div{
+p{
     border: 1px solid grey;
-    margin-right: 750px;
+    margin-right: 1100px;
     padding-bottom: 2px;
     box-shadow:3px 4px 3px 6px gray;
+    text-align: justify;
+}
+body{
+    background-image: url('https://w7.pngwing.com/pngs/243/318/png-transparent-rose-desktop-flower-artwork-flower-arranging-artificial-flower-flowers-thumbnail.png');
+    background-position: right;
+    background-repeat: repeat-y;
+    background-size: 250px;
+   background-color: aliceblue;
+
 }
